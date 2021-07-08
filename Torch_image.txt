@@ -45,3 +45,12 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+
+
+
+
+
+
+
+
+Note:MinSdkVersion 23---->>>> gradle scripts-->>>build.gardle(module:app)
