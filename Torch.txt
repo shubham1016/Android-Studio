@@ -46,3 +46,10 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+
+
+
+
+
+In text file-->>>
+Select minSdkVersion 23
